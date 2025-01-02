@@ -108,15 +108,3 @@ Ensure you have the following installed on your system:
 
    Your application should now be running! Open your browser and navigate to `http://127.0.0.1:8000` to view the application.
 
-## Screenshots
-
-_Add some screenshots of your application to showcase its functionality._
-
-## Contributing
-
-Contributions are welcome! Please submit a pull request or open an issue for any enhancements or bugs you find.
-
-## License
-
-This project is open-source and available under the [MIT License](https://opensource.org/licenses/MIT).
-
