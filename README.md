@@ -35,7 +35,7 @@ Laravel is accessible, powerful, and provides tools required for large, robust a
 
 ## 🚀 Start Project
 
-# Make sure you have composer and node js in system
+### Make sure you have composer and node js in system
 To get started with this chat project, follow the steps below:
 
 ### Step 1: Migrate the Database
