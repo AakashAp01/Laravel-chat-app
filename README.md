@@ -25,15 +25,17 @@
 
 This is a real-time chat application built using the following technologies:
 
-### Technologies Used
+## 🛠️ Tech Stack
 
-<p align="center">
-  <img src="https://raw.githubusercontent.com/laravel/art/master/logo-lockup/5%20SVG/2%20CMYK/1%20Full%20Color/laravel-logolockup-cmyk-red.svg" width="100" alt="Laravel">
-  <img src="https://avatars.githubusercontent.com/u/739550?s=200&v=4" width="100" alt="Pusher">
-  <img src="https://reactjs.org/logo-og.png" width="100" alt="React">
-  <img src="https://tailwindcss.com/_next/static/media/twitter-card.2bd1e0a2.jpg" width="100" alt="Tailwind CSS">
-  <img src="https://laravel.com/img/logomark.min.svg" width="100" alt="Laravel Reverb">
-</p>
+| Technology      | Description                            |
+|-----------------|----------------------------------------|
+| ![Laravel](https://img.shields.io/badge/Laravel-FF2D20?style=for-the-badge&logo=laravel&logoColor=white) | PHP backend framework |
+| ![React](https://img.shields.io/badge/React-20232A?style=for-the-badge&logo=react&logoColor=61DAFB) | JavaScript UI library |
+| ![TailwindCSS](https://img.shields.io/badge/Tailwind_CSS-38B2AC?style=for-the-badge&logo=tailwind-css&logoColor=white) | Utility-first CSS |
+| ![Pusher](https://img.shields.io/badge/Pusher-0A0A0A?style=for-the-badge&logo=pusher&logoColor=white) | Real-time communication |
+| ![MySQL](https://img.shields.io/badge/MySQL-005C84?style=for-the-badge&logo=mysql&logoColor=white) | Relational Database |
+| ![Laravel Reverb](https://img.shields.io/badge/Laravel_Reverb-ff2d20?style=for-the-badge&logo=laravel&logoColor=white) | WebSocket driver |
+
 
 ### Features
 
